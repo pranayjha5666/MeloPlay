@@ -1,0 +1,12 @@
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:duration="1000"
+    android:repeatCount="infinite"
+    android:fromDegrees="0"
+    android:toDegrees="360">
+
+    <size
+        android:width="2dp"
+        android:height="20dp" />
+    <solid android:color="#000000" />
+</rotate>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574376664189",
+    "project_id": "meloplay-3bc7a",
+    "storage_bucket": "meloplay-3bc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574376664189:android:4a6e32142da52bd85aa514",
+        "android_client_info": {
+          "package_name": "com.example.meloplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574376664189-3nk26p69kjq0t4534skdgmioujcdepo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bQ_CXg0ywlQ6m4LKsfrs6OIK4lOwXms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574376664189-3nk26p69kjq0t4534skdgmioujcdepo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

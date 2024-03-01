@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MeloPlay</string>
+    <string name="login">Login</string>
+    <string name="privacy_policy">
+        Privacy Policy for Music Player App by Pranay Jha
+
+Effective Date: July 22, 2023
+
+At Pranay Jha, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you use our music player app. By using our app, you agree to the practices described in this policy.
+
+1. Information We Collect
+
+1.1 Personal Information:
+We may collect certain personal information that you provide voluntarily when you use our music player app. This may include your name, email address, and other information you choose to share when contacting us for support or feedback.
+
+1.2 Device Information:
+We may collect information about the device you use to access our app, including device type, operating system version, unique device identifiers, and mobile network information.
+
+1.3 Usage Data:
+We may collect information about how you use our music player app, such as the songs you play, playlists you create, and other interactions with the app.
+
+2. How We Use Your Information
+
+2.1 Provide and Improve the App:
+We use the information collected to operate, maintain, and enhance the features and functionality of our music player app. This includes providing personalized content, recommending songs or playlists, and improving the overall user experience.
+
+2.2 Communication:
+We may use your email address to respond to your inquiries, provide customer support, and send you updates or notifications related to the app\'s features and changes.
+
+2.3 Anatics:
+We may use aggregated and anonymized data for analytical purposes to understand user behavior, preferences, and trends. This helps us enhance the app\'s performance and optimize its features.
+
+2.4 Legal Compliance:
+We may use your information to comply with applicable laws, regulations, or legal processes.
+
+3. Data Sharing and Disclosure
+
+3.1 Third-Party Service Providers:
+We may share your information with trusted third-party service providers who assist us in operating the app, conducting business activities, or providing services on our behalf. These service providers have access to your information only to perform specific tasks and are obligated to protect your data in accordance with this Privacy Policy.
+
+3.2 Business Transfers:
+In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred to the acquiring entity as part of the transaction. We will notify you via email or a prominent notice in the app of any such change in ownership or control of your personal information.
+
+3.3 Legal Requirements:
+We may disclose your information if required to do so by law or in response to valid requests from public authorities.
+
+4. Data Security
+
+We implement reasonable security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+5. Children's Privacy
+
+Our music player app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13 years of age. If we discover that we have inadvertently collected personal information from a child under 13, we will take steps to promptly delete the information from our servers.
+
+6. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. The updated version will be posted on this page, and the "Effective Date" at the top will be revised accordingly. We recommend reviewing this policy periodically for any changes.
+
+7. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our music player app, please contact us at pranayjha361@gmail.com.
+
+By using our music player app, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. Thank you for choosing our app!</string>
+</resources>

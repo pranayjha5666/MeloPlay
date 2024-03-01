@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:repeatCount="infinite"
+    android:interpolator="@android:anim/linear_interpolator">
+
+    <!-- Rotate the entire group of curved lines -->
+    <rotate
+        android:duration="2000"
+        android:fromDegrees="0"
+        android:toDegrees="360"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+    <!-- Curved line 1 -->
+    <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="-180"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+    <!-- Curved line 2 -->
+    <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="180"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+    <!-- Curved line 3 (optional) -->
+    <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="-360"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+    <!-- Curved line 4 (optional) -->
+    <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="360"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+</set>
